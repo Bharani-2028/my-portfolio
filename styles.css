@@ -346,7 +346,7 @@ section {
     padding-top: 100px;
     text-align: initial;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: row-reverse;
     gap: 2.5rem;
     justify-content: space-around;
   }
